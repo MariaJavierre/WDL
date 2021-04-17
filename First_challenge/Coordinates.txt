@@ -1,0 +1,3 @@
+distrito;lat;long
+Arouca;40.968;-8.162
+Espinho;41.00763;-8.64125
